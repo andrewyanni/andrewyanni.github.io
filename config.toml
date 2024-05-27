@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Andrew Yanni GitHub Pages"
-theme = 'gokarna'
+theme = 'pixyll'
